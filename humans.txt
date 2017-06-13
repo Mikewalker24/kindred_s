@@ -6,11 +6,11 @@
 
 This is a WordPress starter theme created by:
 
-	🐙Janine Isabelle janineisabelle.ca 
+	🐙 Janine Isabelle, janineisabelle.ca 
 		
-	🐎Mike Walker mikewalker.co
+	🐎 Mike Walker, mikewalker.co
 
-Mike and Janine run Kindred Studio (kindredstudio.ca) with 🐝Yuli Scheidt.
+Mike and Janine run Kindred Studio (kindredstudio.ca) with 🐝 Yuli Scheidt, yulischeidt.com.
 
 It is based on _s (underscores.me).
 
